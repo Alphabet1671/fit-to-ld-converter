@@ -1,0 +1,12 @@
+{
+  "fit_dir": "E:/Garmin/Activities",
+  "out_dir": "C:/Users/Louis/Desktop/Biking Data",
+  "sample_hz": 1.0,
+  "resample_mode": "Linear (floats), ZOH (ints/strings)",
+  "driver": "Louis",
+  "vehicleid": "1",
+  "venue": "UIUC",
+  "event_name": "",
+  "event_session": "Bike",
+  "short_comment": ""
+}
